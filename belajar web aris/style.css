@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;1,200&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.thumbhnail {
+    list-style-type: none;
+    padding: 200px;
+    text-align: center;
+    padding: 125px;
+}
+
+.banner {
+    background: url("https://images8.alphacoders.com/380/380528.jpg") 
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 35%;
+    padding-bottom: 5%;
+    color:#fff;
+}    
